@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MamadD0u
-- 👀 I’m interested in dev
+- 👋 Hi, I’m @Mamadou
+- 👀 I’m interested by dev
 - 🌱 I’m currently learning programmation
 
 <!---
